@@ -11,7 +11,7 @@ import vorobieva.DeliveryCalculator;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrowsExactly;
 
-public class CalculatorTest {
+public class CalculatorTest { //for Delivery Calculator
 
     @ParameterizedTest
     @Tags({@Tag("delivery"), @Tag("smoke")})

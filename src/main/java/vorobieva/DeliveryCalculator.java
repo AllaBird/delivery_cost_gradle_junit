@@ -2,6 +2,7 @@ package vorobieva;
 
 
 public class DeliveryCalculator {
+    //Simple solution
 
     public double calculateCost(int distance, String size, String fragile, String overload) {
         double cost = 0;
